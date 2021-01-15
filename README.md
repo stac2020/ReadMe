@@ -68,7 +68,7 @@ HardwareFrameWork|Arduino|
 ## [🖥기능]  
    |<p align="center"><img src="https://user-images.githubusercontent.com/56965398/104686564-c9cb4f00-5740-11eb-8bb2-3806f2637cd1.png"  width="60%"></p>|디바이스로 측정한 각도 데이터를 블루투스로 보내서 어플에서 시각적으로 보여준다.|
    |---|---|
-   |<p align="center"><img src="https://user-images.githubusercontent.com/56965398/104686619-ec5d6800-5740-11eb-9693-ec205592fdf0.png" width="60%"></p>|날마다 자세기록을 해서 자세가 좋아지는 모습을 시각적으로 보여줌|
+   |<p align="center"><img src="https://user-images.githubusercontent.com/56965398/104686619-ec5d6800-5740-11eb-9693-ec205592fdf0.png" width="30%"></p>|날마다 자세기록을 해서 자세가 좋아지는 모습을 시각적으로 보여줌|
    |<p align="center"><img src="https://user-images.githubusercontent.com/56965398/104686683-0bf49080-5741-11eb-93d8-9d901453e952.png" width="60%"></p>|사용자가 스트레칭을 할 시간의 간격을 설정하고, 스트레칭을 유도한다. 그리고 사용자가 참고할 만한 스트레칭 컨텐츠를 추천해준다.|
    |<p align="center"><img src="https://user-images.githubusercontent.com/56965398/104686766-36dee480-5741-11eb-8eb6-638a0b4f9572.png" width="60%"></p>|다크 테마|   
     
